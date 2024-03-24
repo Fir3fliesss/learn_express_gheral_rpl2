@@ -1,0 +1,2 @@
+#Mengabaikan node_modules agar tidak termasuk dalam git saat di tambahkkan dan di push
+node_modules
